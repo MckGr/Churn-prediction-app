@@ -1,5 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
 pandas
 numpy
+scikit-learn
+joblib
 matplotlib
 seaborn
-scikit-learn
